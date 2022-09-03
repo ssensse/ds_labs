@@ -6,4 +6,5 @@ The most important project is [client_outflow](https://github.com/ssensse/traini
 
 The other ones are most simple. They're for showing different instruments I can use. 🔧
 
-[perspective_tariff](https://github.com/ssensse/training_projects/tree/main/perspective_tariff) - statistic analysis
+[client_outflow](https://github.com/ssensse/training_projects/tree/main/client_outlow) - machine learning (binary classification)
+[perspective_tariff](https://github.com/ssensse/training_projects/tree/main/perspective_tariff) - statistic analysis (t-test)
