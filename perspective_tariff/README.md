@@ -6,7 +6,7 @@ We have two hypotheses:
 2. The average receipt of users from Moscow differs from the rest.
 
 🔓k: \
-[main.ipynb](https://github.com/ssensse/training_projects/blob/main/client_outlow/main.ipynb) - project itself with code. 
+[main.ipynb](https://github.com/ssensse/training_projects/blob/main/perspective_tariff/main.ipynb) - project itself with code. 
 
 🔧
 Which tools did I used?
