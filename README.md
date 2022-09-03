@@ -1,6 +1,6 @@
 # training_projects
 
-Here's my training projects list
+Here's my training projects sheet.
 
 The most important project is [client_outflow](https://github.com/ssensse/training_projects/tree/main/client_outlow) 🔥
 
