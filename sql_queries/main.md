@@ -68,3 +68,47 @@ FROM tb3
 |avg|
 |:-:|
 |1.51111|
+
+**Задание.** <br>
+Составьте сводную таблицу и выведите среднюю сумму инвестиций для стран, в которых есть стартапы, зарегистрированные в 2011, 2012 и 2013 годах. 
+
+Данные за каждый год должны быть в отдельном поле. 
+
+Отсортируйте таблицу по среднему значению инвестиций за 2011 год от большего к меньшему.
+
+```sql
+WITH
+     inv_2011 AS (SELECT country_code,
+				         AVG(funding_total) AS year_2011
+				  FROM company
+				  WHERE EXTRACT(YEAR FROM founded_at) = 2011
+				  GROUP BY country_code),
+	 inv_2012 AS (SELECT country_code,
+				         AVG(funding_total) AS year_2012
+				  FROM company
+				  WHERE EXTRACT(YEAR FROM founded_at) = 2012
+				  GROUP BY country_code),
+	 inv_2013 AS (SELECT country_code,
+				         AVG(funding_total) AS year_2013
+				  FROM company
+				  WHERE EXTRACT(YEAR FROM founded_at) = 2013
+				  GROUP BY country_code)	
+SELECT inv_2011.country_code,
+       inv_2011.year_2011,
+	   inv_2012.year_2012,
+	   inv_2013.year_2013
+FROM inv_2011 
+INNER JOIN inv_2012 ON inv_2011.country_code = inv_2012.country_code
+INNER JOIN inv_2013 ON inv_2012.country_code = inv_2013.country_code
+ORDER BY inv_2011.year_2011 DESC
+```
+На выходе получили:
+
+|country_code	|year_2011	|year_2012	|year_2013|
+|:---|:---|:---|:---|
+|PER	|4e+06	|41000	|25000|
+|USA	|2.24396e+06	|1.20671e+06	|1.09336e+06|
+|HKG	|2.18078e+06	|226227	|0|
+|PHL	|1.75e+06	|4218.75	|2500|
+|ARE	|1.718e+06	|197222	|35333.3|
+|JPN	|1.66431e+06	|674720	|50000|
