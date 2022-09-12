@@ -21,12 +21,20 @@
   </tr>
   <tr>
     <td>2.
-        <a href=https://github.com/ssensse/training_projects/tree/main/perspective_tariff>
+        <a href='https://github.com/ssensse/training_projects/tree/main/perspective_tariff'>
         Определение наиболее выгодного тарифа</a></td>
     <td>Компания предлагает два тарифа: "Ультра" и "Смарт". Для корректировки рекламного бюджета 
         необходимо определить наиболее выгодный тариф. Имея данные, необходимо проанализировать поведение клиентов и сделать выводы о тарифах, 
         а также проверить две гипотезы.</td>
     <td><code>pandas</code> <code>numpy</code> <code>matplotlib</code>
         <code>stats</code> <code>Проверка гипотез</code> <code>Описательная статистика</code></td>
+  </tr>
+  <tr>
+    <td>3.
+        <a href='https://github.com/ssensse/training_projects/tree/main/sql_queries'>
+        Практика в использовании SQL-запросов</a>
+    </td>
+    <td>В этом проекте собраны запросы по различным разделам SQL, как визуализация моих навыков</td>
+    <td><code>SQL</code></td>
   </tr>
 </table>
