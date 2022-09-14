@@ -1,29 +1,30 @@
 :question: \
-In some reason customers started leaving the company. Who this time? \
-I have to build a classification model predicting client outflow from telecom.
+По какой-то причине клиенты стали уходить из телекомпании, кто уйдет в этот раз? <br> 
+У нас есть персональные данные клиента, данные о договоре и тарифах. \
+Я должен построить и обучить модель, прогнощирующую отток клиентов.
 
 :unlock: \
-[main.ipynb](https://github.com/ssensse/ClientOutflow/blob/main/client_outlow/main.ipynb) - project itself with code. \
-[report.ipynb](https://github.com/ssensse/ClientOutflow/blob/main/client_outlow/report.ipynb) contains more information about data and my methods.
+[main.ipynb](https://github.com/ssensse/ClientOutflow/blob/main/client_outlow/main.ipynb) - сам проект с кодом. \
+[report.ipynb](https://github.com/ssensse/ClientOutflow/blob/main/client_outlow/report.ipynb) содержит отчет по проекту.
 
 :wrench: \
-Which tools did I used?
-1. On the data preprocessing I used **pandas** and did some actions with datasets:
-    + column names preprocessing
-    + data type preprocessing
-    + filling NaN values
-    + searching for diplicates
-    + creating the target feature
-2. On the EDA I used libraries: **pandas, seaborn, matplotlib, [phik](https://pypi.org/project/phik/), scikit-learn**. The following steps I made:
-    + merging tables by `merge()`
-    + outliers/inliers analysis by plotting *histograms*, *boxplots*
-    + for encoding features I used `sklearn.preprocessing.OrdinalEncoder()`
-    + by *phik* I detected **multicollinearity**
-    + settled up class disbalance by **upsampling**
-3. I used the following models: **RandomForest, LightGBM, Keras**. 
-    + hyperparameters were found by **OptunaSearchCV**
-    + the models were tested on a validation sample
-    + we took **feature importances** from the best model
-4. In the final step I made testing and build *roc_auc curve*
+Какие инструменты были использованы?
+1. На этапе предобработки данных я использовал **pandas** и сделал следующее:
+    + обработка названий столбцов
+    + обработка типов столбцов
+    + заполнение пропусков
+    + поиск дубликатов
+    + формирование целеовго признака
+2. На EDA я использовал: **pandas, seaborn, matplotlib, [phik](https://pypi.org/project/phik/), scikit-learn**. Предпринял следующие шаги:
+    + объединение таблиц методом `merge()`
+    + выявление выбросов и аномальных значений графиками *гистограмм*, *ящиков с усами*
+    + для кодировки признаков использовал `sklearn.preprocessing.OrdinalEncoder()`
+    + библиотекой *phik* обнаружил **мультиколлинеарность**
+    + устранил дисбаланс классов методом **upsampling**
+3. На этапе построения и обучения моделей я использовал следующие модели: **RandomForest, LightGBM, Keras**. 
+    + гиперпараметры были подобраны инструментом **OptunaSearchCV**
+    + тестирование проводилось на валидационной выборке
+    + построили график **важности признаков** по наиболее точной модели
+4. Провели тестирование и построили график *roc_auc кривой*
 
 *ROC-AUC = 0.908*
