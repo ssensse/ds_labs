@@ -5,7 +5,7 @@ We have two hypotheses:
 1. The average receipt of users of the two tariffs differs.
 2. The average receipt of users from Moscow differs from the rest.
 
-🔓k: \
+🔓: \
 [main.ipynb](https://github.com/ssensse/training_projects/blob/main/client_outlow/main.ipynb) - project itself with code. 
 
 🔧
