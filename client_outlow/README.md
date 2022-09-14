@@ -1,4 +1,4 @@
-+:question: \
+:question: \
 In some reason customers started leaving the company. Who this time? \
 I have to build a classification model predicting client outflow from telecom.
 
