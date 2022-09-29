@@ -16,8 +16,18 @@
         Необходимо построить и обучить модель прогнозирующую отток клиентов.</td>
     <td width=250><code>pandas</code> <code>seaborn</code> <code>numpy</code> 
         <code>matplotlib</code> <code>sklearn</code> <code>optuna</code>
-        <code>lightgbm</code> <code>keras</code> <code>Исследовательский анализ</code>
+        <code>lightGBM</code> <code>keras</code> <code>Исследовательский анализ</code>
         <code>Предобработка данных</code></td>
+  </tr>
+  <tr>
+    <td width=250>1. 
+        <a href='https://github.com/ssensse/training_projects/tree/main/taxi_forecast'>
+        Прогнозирование заказов такси на следующий час</a></td>
+    <td width=400, height=100>
+        Для распределения водителей во время пиковой нагрузки необходимо предсказать количество заказов такси на следующий час, используя временной ряд за пол года.</td>
+    <td width=250><code>Временной ряд</code> <code>pandas</code> <code>statsmodels</code> 
+        <code>matplotlib</code> <code>sklearn</code> <code>lightGBM</code>
+        <code>CatBoost</code> <code>Статистический анализ</code>
   </tr>
   <tr>
     <td>2.
