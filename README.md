@@ -20,7 +20,7 @@
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
-    <td width=250>1. 
+    <td width=250>2. 
         <a href='https://github.com/ssensse/training_projects/tree/main/taxi_forecast'>
         Прогнозирование заказов такси на следующий час</a></td>
     <td width=400, height=100>
@@ -30,7 +30,7 @@
         <code>CatBoost</code> <code>Статистический анализ</code>
   </tr>
   <tr>
-    <td>2.
+    <td>3.
         <a href='https://github.com/ssensse/training_projects/tree/main/perspective_tariff'>
         Определение наиболее выгодного тарифа</a></td>
     <td>Компания предлагает два тарифа: "Ультра" и "Смарт". Для корректировки рекламного бюджета 
@@ -40,7 +40,7 @@
         <code>stats</code> <code>Проверка гипотез</code> <code>Описательная статистика</code></td>
   </tr>
   <tr>
-    <td>3.
+    <td>4.
         <a href='https://github.com/ssensse/training_projects/tree/main/sql_queries'>
         Практика в использовании SQL-запросов</a>
     </td>
