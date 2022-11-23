@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td width=250>1. 
-        <a href='https://github.com/ssensse/training_projects/tree/main/Client outlow'>
+        <a href='https://github.com/ssensse/training_projects/tree/main/Client outflow'>
         Прогнозирование оттока клиента из телекомпании</a></td>
     <td width=400, height=100>
         Отдел маркетинга провел исследование и выяснил что из компании все чаще стали уходить клиенты. 
