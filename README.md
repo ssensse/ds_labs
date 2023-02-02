@@ -26,8 +26,9 @@
         Исследование факторов успешности видеоигр</a></td>
     <td width=400, height=100>
         Интернет магазин, продающий видеоигры. Исследование данных о продажах, оценках, регионах позволят выявить потенциально прибыльный продукт. Необходимо исследовать эти факторы, показать и сформулировать вывод.</td>
-    <td width=250><code>pandas</code> <code>seaborn</code> 
-        <code>matplotlib</code><code>numpy</code><code>scipy</code><code>сследовательский анализ</code>
+    <td width=250><code>pandas</code> <code>seaborn</code> <code>matplotlib</code> 
+        <code>numpy</code> <code>scipy</code>
+        <code>Исследовательский анализ</code> 
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
