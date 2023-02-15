@@ -4,7 +4,7 @@
 
 :unlock: \
 [main.md](https://github.com/ssensse/training_projects/blob/main/SQL%20queries/main.md) - сам проект с кодом. \
-[Image.png](https://github.com/ssensse/training_projects/blob/main/sql_queries/Image.png) - схема базы данных №1. \
+[Image.png](https://github.com/ssensse/training_projects/blob/main/SQL%20queries/Image.png) - схема базы данных №1. \
 [Image2.png](https://github.com/ssensse/training_projects/blob/main/sql_queries/Image2.png) - схема базы данных №2.
 
 :wrench: \
