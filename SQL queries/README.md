@@ -3,7 +3,7 @@
 В репозитории содержатся картинки (ER-диаграммы) баз данных с которыми я работал чисто для наглядности и понятности кода.
 
 :unlock: \
-[main.md](https://github.com/ssensse/ClientOutflow/blob/main/sql_queries/main.md) - сам проект с кодом. \
+[main.md](https://github.com/ssensse/training_projects/blob/main/SQL%20queries/main.md) - сам проект с кодом. \
 [Image.png](https://github.com/ssensse/training_projects/blob/main/sql_queries/Image.png) - схема базы данных №1. \
 [Image2.png](https://github.com/ssensse/training_projects/blob/main/sql_queries/Image2.png) - схема базы данных №2.
 
