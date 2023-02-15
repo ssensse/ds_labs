@@ -5,7 +5,7 @@
 2. Средний чек пользователей из Москвы **отличается** от среднего чека остальных.
 
 🔓 \
-[main.ipynb](https://github.com/ssensse/training_projects/blob/main/perspective_tariff/main.ipynb) - проект с кодом. 
+[main.ipynb](https://github.com/ssensse/training_projects/blob/main/Perspective%20tariff/main.ipynb) - проект с кодом. 
 
 🔧
 Какие инструменты были использованы и какие выводы были вынесены?
