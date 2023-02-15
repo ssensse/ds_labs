@@ -4,7 +4,7 @@
 Я должен построить и обучить модель, прогнощирующую отток клиентов.
 
 :unlock: \
-[main.ipynb](https://github.com/ssensse/ClientOutflow/blob/main/client_outlow/main.ipynb) - сам проект с кодом. \
+[main.ipynb]([https://github.com/ssensse/ClientOutflow/blob/main/client_outlow/main.ipynb](https://github.com/ssensse/training_projects/blob/main/Client%20outflow/main.ipynb)) - сам проект с кодом. \
 [report.ipynb](https://github.com/ssensse/ClientOutflow/blob/main/client_outlow/report.ipynb) содержит отчет по проекту.
 
 :wrench: \
