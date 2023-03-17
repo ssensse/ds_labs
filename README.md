@@ -20,6 +20,16 @@
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
+    <td width=250>2. 
+        <a href='https://github.com/ssensse/training_projects/tree/main/Debt%20payment'>
+        Прогнозирование оплаты должников</a></td>
+    <td width=400, height=100>
+        Необходимо выявить наиболее сильные факторы влияющие на шанс оплаты должника в течение 30 дней, выбрать метрики и построить прогноз</td>
+    <td width=250><code>pandas</code> <code>seaborn</code> <code>numpy</code> 
+        <code>matplotlib</code> <code>sklearn</code><code>CatBoost</code> <code>RandomForest</code> 
+        <code>Исследовательский анализ</code></td>
+  </tr>
+  <tr>
   <tr>
     <td width=250>2. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Game success analysis'>
