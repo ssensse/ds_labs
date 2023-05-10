@@ -22,7 +22,7 @@
   <tr>
     <td width=250>2. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Debt%20payment'>
-        Прогнозирование оплаты должников</a></td>
+        Цветастые компании</a></td>
     <td width=400, height=100>
         Необходимо провести аналитику по 4 компаниям, в нашем обладании данные о пользователях и их активности в каждой из этих цветных компаний.</td>
     <td width=250><code>pandas</code> <code>seaborn</code> <code>numpy</code> 
