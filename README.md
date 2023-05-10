@@ -21,17 +21,17 @@
   </tr>
   <tr>
     <td width=250>2. 
-        <a href='https://github.com/ssensse/training_projects/tree/main/Debt%20payment'>
-        Прогнозирование оплаты должников</a></td>
+        <a href='https://github.com/ssensse/training_projects/blob/main/Colorful%20companies/AnalyticTest.ipynb'>
+        Цветастые компании</a></td>
     <td width=400, height=100>
-        Необходимо выявить наиболее сильные факторы влияющие на шанс оплаты должника в течение 30 дней, выбрать метрики и построить прогноз</td>
+        Необходимо провести аналитику по 4 компаниям, в нашем обладании данные о пользователях и их активности в каждой из этих цветных компаний.</td>
     <td width=250><code>pandas</code> <code>seaborn</code> <code>numpy</code> 
-        <code>matplotlib</code> <code>sklearn</code><code>CatBoost</code> <code>RandomForest</code> 
-        <code>Исследовательский анализ</code></td>
+        <code>matplotlib</code><code>Проверка гипотез</code> <code>Исследовательский анализ</code> 
+        <code>Предобработка данных</code></td>
   </tr>
   <tr>
   <tr>
-    <td width=250>2. 
+    <td width=250>3. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Game success analysis'>
         Исследование факторов успешности видеоигр</a></td>
     <td width=400, height=100>
@@ -42,7 +42,7 @@
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
-    <td width=250>3. 
+    <td width=250>4. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Taxi forecast'>
         Прогнозирование заказов такси на следующий час</a></td>
     <td width=400, height=100>
@@ -52,7 +52,7 @@
         <code>CatBoost</code> <code>Статистический анализ</code>
   </tr>
   <tr>
-    <td>4.
+    <td>5.
         <a href='https://github.com/ssensse/training_projects/tree/main/Perspective tariff'>
         Определение наиболее выгодного тарифа</a></td>
     <td>Компания предлагает два тарифа: "Ультра" и "Смарт". Для корректировки рекламного бюджета 
@@ -62,7 +62,7 @@
         <code>stats</code> <code>Проверка гипотез</code> <code>Описательная статистика</code></td>
   </tr>
   <tr>
-    <td>5.
+    <td>6.
         <a href='https://github.com/ssensse/training_projects/tree/main/SQL queries'>
         Практика в использовании SQL-запросов</a>
     </td>
