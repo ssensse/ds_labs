@@ -61,12 +61,4 @@
     <td><code>pandas</code> <code>numpy</code> <code>matplotlib</code>
         <code>stats</code> <code>Проверка гипотез</code> <code>Описательная статистика</code></td>
   </tr>
-  <tr>
-    <td>6.
-        <a href='https://github.com/ssensse/training_projects/tree/main/SQL queries'>
-        Практика в использовании SQL-запросов</a>
-    </td>
-    <td>В этом проекте собраны мои запросы по различным разделам SQL, как визуализация моих умений</td>
-    <td><code>SQL</code></td>
-  </tr>
 </table>
