@@ -8,6 +8,16 @@
   </tr>
   <tr>
     <td width=250>1. 
+        <a href='https://github.com/ssensse/training_projects/blob/main/Resume%20of%20programmers/resume_of_programmers.ipynb'>
+        Резюме программистов</a></td>
+    <td width=400, height=100>
+        Компании необходимо научиться прогнозировать ожидаемую зарплату соискателя на основе базы из парсированных резюме.</td>
+    <td width=250><code>pandas</code> <code>seaborn</code> <code>numpy</code> <code>scipy</code>
+        <code>matplotlib</code> <code>Проверка гипотез</code> <code>Исследовательский анализ</code> 
+        <code>Предобработка данных</code> <code>Machine Learning</code> <code>NLTK</code> <code>optuna</code> <code>pymystem3</code></td>
+  </tr>
+  <tr>
+    <td width=250>2. 
         <a href='https://github.com/ssensse/training_projects/blob/main/Colorful%20companies/AnalyticTest.ipynb'>
         Цветастые компании</a></td>
     <td width=400, height=100>
@@ -17,7 +27,7 @@
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
-    <td width=250>2. 
+    <td width=250>3. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Client outflow'>
         Прогнозирование оттока клиента из телекомпании</a></td>
     <td width=400, height=100>
@@ -30,8 +40,7 @@
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
-  <tr>
-    <td width=250>3. 
+    <td width=250>4. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Game success analysis'>
         Исследование факторов успешности видеоигр</a></td>
     <td width=400, height=100>
@@ -42,7 +51,7 @@
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
-    <td width=250>4. 
+    <td width=250>5. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Taxi forecast'>
         Прогнозирование заказов такси на следующий час</a></td>
     <td width=400, height=100>
@@ -52,7 +61,7 @@
         <code>CatBoost</code> <code>Статистический анализ</code>
   </tr>
   <tr>
-    <td>5.
+    <td width=250>6.
         <a href='https://github.com/ssensse/training_projects/tree/main/Perspective tariff'>
         Определение наиболее выгодного тарифа</a></td>
     <td>Компания предлагает два тарифа: "Ультра" и "Смарт". Для корректировки рекламного бюджета 
