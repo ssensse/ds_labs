@@ -8,6 +8,15 @@
   </tr>
   <tr>
     <td width=250>1. 
+        <a href='https://github.com/ssensse/training_projects/blob/main/Advertising%20Campaigns/main.ipynb'>
+        Рекламные кампании</a></td>
+    <td width=400, height=100>
+        Провести анализ эффективности реклам, закупщиков реклам, регионов. Рассмотреть маркетинговые метрки и дать рекомендации медиабайерам для дальнейших кампаний.</td>
+    <td width=250><code>Маркетинговые метрики</code> <code>seaborn</code> <code>numpy</code> 
+        <code>pandas</code> <code>matplotlib</code> <code>Предобработка данных</code></td>
+  </tr>
+  <tr>
+    <td width=250>2. 
         <a href='https://github.com/ssensse/training_projects/blob/main/Resume%20of%20programmers/resume_of_programmers.ipynb'>
         Резюме программистов</a></td>
     <td width=400, height=100>
@@ -17,7 +26,7 @@
         <code>Предобработка данных</code> <code>Machine Learning</code> <code>NLTK</code> <code>optuna</code> <code>pymystem3</code></td>
   </tr>
   <tr>
-    <td width=250>2. 
+    <td width=250>3. 
         <a href='https://github.com/ssensse/training_projects/blob/main/Colorful%20companies/AnalyticTest.ipynb'>
         Цветастые компании</a></td>
     <td width=400, height=100>
@@ -27,7 +36,7 @@
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
-    <td width=250>3. 
+    <td width=250>4. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Client outflow'>
         Прогнозирование оттока клиента из телекомпании</a></td>
     <td width=400, height=100>
@@ -40,7 +49,7 @@
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
-    <td width=250>4. 
+    <td width=250>5. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Game success analysis'>
         Исследование факторов успешности видеоигр</a></td>
     <td width=400, height=100>
@@ -51,7 +60,7 @@
         <code>Предобработка данных</code></td>
   </tr>
   <tr>
-    <td width=250>5. 
+    <td width=250>6. 
         <a href='https://github.com/ssensse/training_projects/tree/main/Taxi forecast'>
         Прогнозирование заказов такси на следующий час</a></td>
     <td width=400, height=100>
@@ -61,7 +70,7 @@
         <code>CatBoost</code> <code>Статистический анализ</code>
   </tr>
   <tr>
-    <td width=250>6.
+    <td width=250>7.
         <a href='https://github.com/ssensse/training_projects/tree/main/Perspective tariff'>
         Определение наиболее выгодного тарифа</a></td>
     <td>Компания предлагает два тарифа: "Ультра" и "Смарт". Для корректировки рекламного бюджета 
