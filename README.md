@@ -13,7 +13,7 @@
     <td width=400, height=100>
         Провести анализ эффективности реклам, закупщиков реклам, регионов. Рассмотреть маркетинговые метрки и дать рекомендации медиабайерам для дальнейших кампаний.</td>
     <td width=250><code>Маркетинговые метрики</code> <code>seaborn</code> <code>numpy</code> 
-        <code>pandas</code> <code>matplotlib</code> <code>Предобработка данных</code></td>
+        <code>pandas</code> <code>matplotlib</code></td>
   </tr>
   <tr>
     <td width=250>2. 
