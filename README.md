@@ -8,6 +8,8 @@ Here are two folders for now:
 2. **Old labs**. During the time I've been working on them I've developed my skills. I didn't know the statistic theory and ML well enough so I wouldn't call those projects as 'my pride'. That's why I hid them in a separate folder. But anyway you could see them if you're interested...
 
 3. Someday I put here:
-4. 1. More interesting projects
-   2. Versions of libraries.
-   3. A cat picture...
+   - More interesting projects
+   - Versions of libraries.
+   - A cat picture...
+
+That's it.
